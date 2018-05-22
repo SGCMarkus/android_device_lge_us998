@@ -22,7 +22,7 @@ DEVICE_PATH := device/lge/us998
 TARGET_OTA_ASSERT_DEVICE := v30,joan,us998
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineageos_h930_defconfig
+#TARGET_KERNEL_CONFIG := lineageos_h930_defconfig
 
 # inherit from the proprietary version
 -include vendor/lge/us998/BoardConfigVendor.mk
